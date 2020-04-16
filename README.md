@@ -6,7 +6,6 @@ Body mass index (BMI)- is a measure of body fat based on height and weight that 
 *Normal weight = 18.5–24.9
 *Overweight = 25–29.9
 *Obesity = BMI of 30 or greater
-![](bmi_range.PNG)
 
 ## Risks associated with being overweight
 Being overweight increases the risk of a number of serious diseases and health conditions. Below is a list of said risks, according to the Centers for Disease Control and Prevention (CDC):
